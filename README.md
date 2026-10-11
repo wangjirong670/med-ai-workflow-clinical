@@ -5,7 +5,7 @@
 
 [English](README.en.md) · 中文见下
 
-学习向请去姊妹仓：[`med-ai-workflow`](https://github.com/wangjirong670/med-ai-workflow)
+学习向请去姊妹仓：[`med-ai-workflow-learning`](https://github.com/wangjirong670/med-ai-workflow-learning)
 
 ---
 
@@ -29,3 +29,6 @@
 ## 免责声明
 
 不构成诊疗建议。
+
+
+

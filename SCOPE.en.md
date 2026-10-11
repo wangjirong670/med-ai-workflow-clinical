@@ -1,7 +1,7 @@
 # Clinical track · scope
 
 > **Not started.** No main-flow prompt.  
-> Study track: [`med-ai-workflow`](https://github.com/wangjirong670/med-ai-workflow)
+> Study track: [`med-ai-workflow-learning`](https://github.com/wangjirong670/med-ai-workflow-learning)
 
 ## Is / is not
 
@@ -40,3 +40,5 @@ Before prompts: decide where individual patient data sits, or make it its own cl
 
 Candidates: night-shift handover; 2-minute verbal + one-pager to mentor.  
 (Patient “clinic visit prep” is **not** this repo.)
+
+

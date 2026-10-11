@@ -1,7 +1,7 @@
 # 临床向 · 边界（SCOPE）
 
 > **未开工。** 无主流程 prompt。  
-> 学习向见 [`med-ai-workflow`](https://github.com/wangjirong670/med-ai-workflow)。
+> 学习向见 [`med-ai-workflow-learning`](https://github.com/wangjirong670/med-ai-workflow-learning)。
 
 ## 是 / 不是
 
@@ -40,3 +40,5 @@
 
 候选：夜班交班条；向导师 2 分钟口头+一页纸。  
 （患者「就诊前准备」不在本仓。）
+
+

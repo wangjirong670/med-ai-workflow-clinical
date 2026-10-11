@@ -4,7 +4,7 @@ Clinical-track AI workflow. **Not started (scope only).**
 
 **English** · [中文](README.md)
 
-Study track (sibling repo): [`med-ai-workflow`](https://github.com/wangjirong670/med-ai-workflow)
+Study track (sibling repo): [`med-ai-workflow-learning`](https://github.com/wangjirong670/med-ai-workflow-learning)
 
 ---
 
@@ -28,3 +28,5 @@ No clinical main flow is published. Before writing one, decide where **individua
 ## Disclaimer
 
 Not medical advice.
+
+
